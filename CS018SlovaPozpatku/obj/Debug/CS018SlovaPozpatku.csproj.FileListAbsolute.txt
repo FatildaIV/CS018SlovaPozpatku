@@ -1,0 +1,10 @@
+C:\Users\jarah\source\repos\CS018SlovaPozpatku\CS018SlovaPozpatku\bin\Debug\CS018SlovaPozpatku.exe.config
+C:\Users\jarah\source\repos\CS018SlovaPozpatku\CS018SlovaPozpatku\bin\Debug\CS018SlovaPozpatku.exe
+C:\Users\jarah\source\repos\CS018SlovaPozpatku\CS018SlovaPozpatku\bin\Debug\CS018SlovaPozpatku.pdb
+C:\Users\jarah\source\repos\CS018SlovaPozpatku\CS018SlovaPozpatku\obj\Debug\CS018SlovaPozpatku.csprojAssemblyReference.cache
+C:\Users\jarah\source\repos\CS018SlovaPozpatku\CS018SlovaPozpatku\obj\Debug\CS018SlovaPozpatku.Form1.resources
+C:\Users\jarah\source\repos\CS018SlovaPozpatku\CS018SlovaPozpatku\obj\Debug\CS018SlovaPozpatku.Properties.Resources.resources
+C:\Users\jarah\source\repos\CS018SlovaPozpatku\CS018SlovaPozpatku\obj\Debug\CS018SlovaPozpatku.csproj.GenerateResource.cache
+C:\Users\jarah\source\repos\CS018SlovaPozpatku\CS018SlovaPozpatku\obj\Debug\CS018SlovaPozpatku.csproj.CoreCompileInputs.cache
+C:\Users\jarah\source\repos\CS018SlovaPozpatku\CS018SlovaPozpatku\obj\Debug\CS018SlovaPozpatku.exe
+C:\Users\jarah\source\repos\CS018SlovaPozpatku\CS018SlovaPozpatku\obj\Debug\CS018SlovaPozpatku.pdb
